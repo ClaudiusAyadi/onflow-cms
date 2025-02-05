@@ -1,11 +1,3 @@
-To install dependencies:
-```sh
-bun install
-```
+# onFlow CMS API
 
-To run:
-```sh
-bun run dev
-```
-
-open http://localhost:3000
+**TODO: Write the API detailed README.md**
